@@ -1,4 +1,4 @@
-<h1 align="left">Hello There!!</h1>
+<h1 align="left">👋 Hello There!!</h1>
 
 ###
 
@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lucasAMBR&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=lucasAMBR&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=5&order=3" height="260" alt="streak graph"  />
 </div>
 
 ###
