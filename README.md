@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hello There!!</h1>
+<h1 align="left">Hello There!!</h1>
 
 ###
 
@@ -7,9 +7,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasAMBR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1" height="240" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasAMBR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" height="240" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasAMBR&radius=8&theme=synthwave-84&area=true&order=5&hide_border=true" height="365" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasAMBR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1" height="" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasAMBR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" height="" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasAMBR&radius=8&theme=synthwave-84&area=true&order=5&hide_border=true" height="230" alt="activity-graph graph"  />
 </div>
 
 ###
